@@ -1,4 +1,3 @@
-# first_repository
-this is my first repository for my practice
-it's make for my practice
-changes to learn pull 
+this is first file in first_repository 
+and simple name is README.md
+simple text file for wrighting some text
